@@ -1,4 +1,4 @@
-# Trabalho de Pós-Graduação
+# Tech Challange
 
 ## Introdução
 Este projeto visa prever os custos médicos de pacientes usando o dataset **Healthcare Data** do Kaggle, criado por Sahil Bajaj, que contém informações sobre hospitalizações, exames médicos e histórico de saúde.  
@@ -41,4 +41,8 @@ Certifique-se de que todos esses arquivos estão no mesmo diretório do programa
 1. Certifique-se de ter a versão correta do Python instalada (>= 3.10.15).  
 2. Instale os pacotes necessários utilizando o comando:  
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt (caso venha a rodar o arquivo de extensão Tech_Challenge_v3.3.1.ipynb, no visual studio code)
+3. Abra e execute o arquivo Tech_Challenge_v3.3.1.ipynb em um ambiente compatível com Jupyter Notebook, como:
+	Jupyter Notebook
+	Google Colab
+	VS Code com a extensão Jupyter
